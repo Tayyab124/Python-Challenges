@@ -1,2 +1,2 @@
 # Python-Challenges
-Python-Practice
+Hackerrank/Hackerearth practice challenges

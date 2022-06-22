@@ -1,0 +1,12 @@
+import math
+import os
+import random
+import re
+import sys
+def avg(*num):
+    if len(num)==0:
+        return None
+    Total_sum=0
+    for i in num:
+        Total_sum += i
+    return(float(Total_sum)/len(num))
